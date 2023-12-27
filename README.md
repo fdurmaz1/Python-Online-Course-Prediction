@@ -8,7 +8,7 @@ Feature Observations:
 •	cbrt_Student: This feature represents third highest correlation between cbrt_NumberRatings with 0.479917
 <br><br><br>
 ![image](https://github.com/fdurmaz1/SQL_Company_project/assets/133916817/71305d69-f296-428f-b089-4d234499a1f9)
-<br><br><br>
+
 ## Linear Regression with Lasso Report 
 
 For the linear regression model with Lasso, we utilized the Lasso algorithm and performed feature selection based on different alpha values. We tested multiple alpha values (0.001, 0.01, 0.1, 1.0, and 10.0) and evaluated the performance of each model using R^2 (coefficient of determination) and RMSE (root mean squared error) metrics.
